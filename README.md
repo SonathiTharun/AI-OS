@@ -6,6 +6,14 @@
 
 ---
 
+## 📚 Project Documentation & Resources
+
+Before diving into the core vision, please review our internal documentation for this project:
+*   [**Architecture & Strategy Plan**](ARCHITECTURE_STRATEGY.md) - The 0-budget, open-source API routing blueprint detailing the model roster (GLM 5.2, DeepSeek V4, Kimi K3, MiniMax M3) and execution phases.
+*   [**Team Onboarding & Git Guide**](TEAM_ONBOARDING_GIT_GUIDE.md) - The visual guide for new developers on how to use Git, branches, Pull Requests, and GitHub Actions safely without breaking the OS.
+
+---
+
 ## 🌟 1. The Core Idea
 
 Today, when someone wants to build an application using AI coding tools, they usually give a prompt to one AI.
